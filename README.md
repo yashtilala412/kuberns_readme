@@ -43,7 +43,7 @@ Where Koyeb requires explicit service configuration, Kuberns' AI agent detects y
 * **Monitoring** — included
 
 ---
-
+<a href="https://kuberns.com/blogs/"> <img src="https://i.postimg.cc/vTCQshqV/Gemini-Generated-Image-wfgcgowfgcgowfgc.png" alt="Deploy with Kuberns" width="200"/> </a>
 ### Render
 Render is a managed PaaS that competes directly with Koyeb for teams wanting managed deployment without serverless complexity.
 
